@@ -6,7 +6,7 @@ Crypto stock market prices for your Macbook Pro touch bar! Values updated every 
 Currently supported coins: 
 - **Bitcoin** - Pulled from Coinbase.com API.
 - **Ethereum** - Pulled from Coinbase.com API.
-- **Lamden** - Pulled from Uniswap API.
+- **Lamden** - Pulled from TxBit.io API.
 
 # Notes: 
 - All values are in USD.
